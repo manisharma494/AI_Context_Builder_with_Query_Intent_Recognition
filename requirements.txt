@@ -1,0 +1,14 @@
+faiss-cpu
+PyMuPDF
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+sentence-transformers
+openai
+python-dotenv
+numpy
+pytest
+fastapi
+uvicorn
+streamlit 
